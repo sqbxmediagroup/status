@@ -14,7 +14,9 @@ sites:
   - name: SQBX - Website
     url: https://sqbx.uk
   - name: Cloudflare
-    url: https://api.cloudflare.com
+    url: https://api.cloudflare.com/client/v4
+    expectedStatusCodes:
+      - 7000
     check: "tcp-ping"
   - name: CDN Service
     url: https://cdn.matthewsnetmedia.co.uk
