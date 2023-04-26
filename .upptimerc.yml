@@ -61,7 +61,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MMN Status
   introTitle: "Check the current status of our websites and servers."
-  introMessage: "Need support? Contact: [support@matthewsnetmedia.co.uk](mailto:support@matthewsnetmedia.co.uk). Users can see more info at [tools.37hrd.uk](tools.37hrd.uk)."
+  introMessage: "Need support? Contact: [spt-team@matthewsnetmedia.co.uk](mailto:spt-team@matthewsnetmedia.co.uk). Users can see more info at [tools.37hrd.uk](https://tools.37hrd.uk)."
   customHeadHtml: "<meta name=\"robots\" content=\"noindex nofollow noarchive noimageindex\">"
   navbar:
     - title: Status
