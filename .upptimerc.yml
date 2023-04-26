@@ -3,15 +3,56 @@ owner: MMNmedia # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: MMN - Website
+    url: https://www.matthewsnetmedia.co.uk
+  - name: 37HRD - Website
+    url: https://37hrd.uk
+  - name: 37HRD - Tools
+    url: https://tools.37hrd.uk
+  - name: 37HRD - NAS
+    url: https://nas.37hrd.uk
+  - name: SQBX - Website
+    url: https://sqbx.uk
+  - name: Cloudflare
+    url: https://api.cloudflare.com
+    check: "tcp-ping"
+  - name: CDN Service
+    url: https://cdn.matthewsnetmedia.co.uk
+  - name: Emails Service (MX server 1)
+    url: mx2.forwardemail.net
+    port: 25
+    check: "tcp-ping"
+  - name: Emails Service (MX server 2)
+    url: mx1.forwardemail.net
+    port: 25
+    check: "tcp-ping"
+  - name: Emails Service (SMTP server)
+    url: smtp.gmail.com
+    port: 587
+    check: "tcp-ping"
+  - name: Documentation Website (Public)
+    url: https://docs.37hrd.uk
+  - name: Client Website - matthew.37hrd.uk
+    url: https://matthew.37hrd.uk
+  - name: Client Website - your80s.co.uk
+    url: https://your80s.co.uk
+  - name: Client Website - 10yearstheshow.com
+    url: https://10yearstheshow.com
+  - name: Client Website - whatcanido.org.uk
+    url: https://whatcanido.org.uk
+  - name: Client Website - letthechildrensing.org
+    url: https://letthechildrensing.org
+  - name: Client Website - throughtheseeyesfilm.com
+    url: https://throughtheseeyesfilm.com
+  - name: Client Website - standrewsurccardiff.co.uk
+    url: https://standrewsurccardiff.co.uk
+  - name: Client Website - jwrecovery.co.uk
+    url: https://jwrecovery.co.uk
+  - name: Client Website - retraace.co.uk
+    url: https://retraace.co.uk
+  - name: Client Website - peteholdstock.co.uk
+    url: https://peteholdstock.co.uk
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -21,6 +62,7 @@ status-website:
   name: MMN Status
   introTitle: "Check the current status of our websites and servers."
   introMessage: "Need support? Contact: [support@matthewsnetmedia.co.uk](mailto:support@matthewsnetmedia.co.uk). Users can see more info at [tools.37hrd.uk](tools.37hrd.uk)."
+  customHeadHtml: "<meta name=\"robots\" content=\"noindex nofollow noarchive noimageindex\">"
   navbar:
     - title: Status
       href: /
