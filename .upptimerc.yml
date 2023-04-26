@@ -14,10 +14,7 @@ sites:
   - name: SQBX - Website
     url: https://sqbx.uk
   - name: Cloudflare
-    url: https://api.cloudflare.com/client/v4
-    expectedStatusCodes:
-      - 7000
-    check: "tcp-ping"
+    url: https://cloudflare-dns.com
   - name: CDN Service
     url: https://cdn.matthewsnetmedia.co.uk
   - name: Emails Service (MX server 1)
@@ -71,6 +68,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Email Support
+      href: mailto:web-spt-team@matthewsnetmedia.co.uk
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
