@@ -251,19 +251,19 @@
     "url": "https://10yearstheshow.com",
     "icon": "https://icons.duckduckgo.com/ip3/10yearstheshow.com.ico",
     "slug": "client-website-10yearstheshow-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1942,
-    "timeDay": 2183,
-    "timeWeek": 3189,
-    "timeMonth": 2101,
-    "timeYear": 1942,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1929,
+    "timeDay": 1818,
+    "timeWeek": 2979,
+    "timeMonth": 2075,
+    "timeYear": 1929,
     "dailyMinutesDown": {
-      "2023-06-20": 4
+      "2023-06-20": 10
     }
   },
   {
@@ -289,19 +289,19 @@
     "url": "https://letthechildrensing.org",
     "icon": "https://icons.duckduckgo.com/ip3/letthechildrensing.org.ico",
     "slug": "client-website-letthechildrensing-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1283,
-    "timeDay": 1097,
-    "timeWeek": 1290,
-    "timeMonth": 1439,
-    "timeYear": 1283,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1312,
+    "timeDay": 2132,
+    "timeWeek": 1498,
+    "timeMonth": 1485,
+    "timeYear": 1312,
     "dailyMinutesDown": {
-      "2023-06-20": 2
+      "2023-06-20": 8
     }
   },
   {
