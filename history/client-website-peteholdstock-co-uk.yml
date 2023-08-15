@@ -1,7 +1,7 @@
 url: https://peteholdstock.co.uk
-status: up
-code: 200
-responseTime: 869
-lastUpdated: 2023-08-15T21:15:52.184Z
+status: down
+code: 500
+responseTime: 446
+lastUpdated: 2023-08-15T21:38:29.880Z
 startTime: Wed Apr 26 2023 00:56:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
