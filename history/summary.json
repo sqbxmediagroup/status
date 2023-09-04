@@ -4,36 +4,40 @@
     "url": "https://www.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.matthewsnetmedia.co.uk.ico",
     "slug": "mmn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 336,
     "timeDay": 352,
     "timeWeek": 355,
     "timeMonth": 334,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 5
+    }
   },
   {
     "name": "37HRD - Website",
     "url": "https://37hrd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/37hrd.uk.ico",
     "slug": "37-hrd-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 335,
     "timeDay": 349,
     "timeWeek": 358,
     "timeMonth": 343,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 3
+    }
   },
   {
     "name": "37HRD - Tools",
@@ -61,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.37hrd.uk.ico",
     "slug": "37-hrd-nas",
     "status": "up",
-    "uptime": "92.33%",
+    "uptime": "92.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "92.33%",
+    "uptimeYear": "92.38%",
     "time": 1800,
     "timeDay": 659,
-    "timeWeek": 675,
+    "timeWeek": 677,
     "timeMonth": 937,
     "timeYear": 1800,
     "dailyMinutesDown": {
@@ -97,10 +101,10 @@
     "url": "https://sqbx.uk",
     "icon": "https://icons.duckduckgo.com/ip3/sqbx.uk.ico",
     "slug": "sqbx-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
@@ -108,7 +112,9 @@
     "timeWeek": 353,
     "timeMonth": 344,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 2
+    }
   },
   {
     "name": "Cloudflare",
@@ -136,9 +142,9 @@
     "url": "https://cdn.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.matthewsnetmedia.co.uk.ico",
     "slug": "cdn-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +153,9 @@
     "timeWeek": 365,
     "timeMonth": 337,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "Emails Service (MX server 1)",
@@ -212,11 +220,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.37hrd.uk.ico",
     "slug": "documentation-website-public",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.70%",
+    "uptimeYear": "97.71%",
     "time": 131,
     "timeDay": 183,
     "timeWeek": 139,
