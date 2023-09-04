@@ -4,19 +4,19 @@
     "url": "https://www.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.matthewsnetmedia.co.uk.ico",
     "slug": "mmn-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 336,
-    "timeDay": 352,
-    "timeWeek": 355,
+    "timeDay": 351,
+    "timeWeek": 354,
     "timeMonth": 334,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2023-09-04": 5
+      "2023-09-04": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://37hrd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/37hrd.uk.ico",
     "slug": "37-hrd-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 349,
-    "timeWeek": 358,
-    "timeMonth": 343,
-    "timeYear": 335,
+    "time": 334,
+    "timeDay": 293,
+    "timeWeek": 343,
+    "timeMonth": 339,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-09-04": 3
+      "2023-09-04": 8
     }
   },
   {
@@ -101,19 +101,19 @@
     "url": "https://sqbx.uk",
     "icon": "https://icons.duckduckgo.com/ip3/sqbx.uk.ico",
     "slug": "sqbx-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 357,
-    "timeWeek": 353,
-    "timeMonth": 344,
+    "timeDay": 317,
+    "timeWeek": 343,
+    "timeMonth": 341,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2023-09-04": 2
+      "2023-09-04": 7
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "https://cdn.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.matthewsnetmedia.co.uk.ico",
     "slug": "cdn-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 398,
-    "timeWeek": 365,
-    "timeMonth": 337,
-    "timeYear": 338,
+    "time": 337,
+    "timeDay": 339,
+    "timeWeek": 354,
+    "timeMonth": 335,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 5
     }
   },
   {
