@@ -1,5 +1,5 @@
 # Change these first
-owner: MMNmedia # Your GitHub organization or username, where this repository lives
+owner: sqbxmediagroup # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -7,8 +7,8 @@ sites:
     url: https://www.matthewsnetmedia.co.uk
   - name: 37HRD - Website
     url: https://37hrd.uk
-  - name: 37HRD - Tools
-    url: https://tools.37hrd.uk
+  - name: My37HRD
+    url: https://my.37hrd.uk/home
   - name: 37HRD - NAS
     url: https://nas.37hrd.uk
   - name: SQBX - Website
@@ -59,7 +59,7 @@ status-website:
   cname: status.37hrd.uk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: MMN Status
+  name: SQBX Status
   introTitle: "Check the current status of our websites and servers."
   introMessage: "Need support? Contact: [spt-team@matthewsnetmedia.co.uk](mailto:spt-team@matthewsnetmedia.co.uk). Users can see more info at [tools.37hrd.uk](https://tools.37hrd.uk)."
   customHeadHtml: "<meta name=\"robots\" content=\"noindex nofollow noarchive noimageindex\">"
