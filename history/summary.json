@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.37hrd.uk.ico",
     "slug": "37-hrd-nas",
     "status": "up",
-    "uptime": "93.17%",
+    "uptime": "93.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.17%",
+    "uptimeYear": "93.18%",
     "time": 1485,
     "timeDay": 549,
     "timeWeek": 1662,
@@ -164,9 +164,9 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emails-service-mx-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -176,6 +176,7 @@
     "timeMonth": 40,
     "timeYear": 60,
     "dailyMinutesDown": {
+      "2024-01-02": 0,
       "2023-09-22": 19
     }
   },
@@ -184,9 +185,9 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emails-service-mx-server-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -196,6 +197,7 @@
     "timeMonth": 56,
     "timeYear": 61,
     "dailyMinutesDown": {
+      "2024-01-02": 0,
       "2023-08-09": 32,
       "2023-07-17": 382
     }
