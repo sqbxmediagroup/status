@@ -441,18 +441,19 @@
     "url": "https://peteholdstock.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/peteholdstock.co.uk.ico",
     "slug": "client-website-peteholdstock-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 585,
-    "timeDay": 759,
-    "timeWeek": 652,
-    "timeMonth": 657,
-    "timeYear": 585,
+    "time": 614,
+    "timeDay": 5549,
+    "timeWeek": 1863,
+    "timeMonth": 980,
+    "timeYear": 614,
     "dailyMinutesDown": {
+      "2024-03-14": 0,
       "2023-04-26": 714
     }
   }
