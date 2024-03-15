@@ -4,19 +4,19 @@
     "url": "https://www.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.matthewsnetmedia.co.uk.ico",
     "slug": "mmn-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 336,
-    "timeWeek": 341,
+    "timeDay": 331,
+    "timeWeek": 339,
     "timeMonth": 330,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 11
     }
   },
   {
