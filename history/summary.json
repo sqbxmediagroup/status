@@ -6,18 +6,16 @@
     "slug": "mmn-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 326,
     "timeWeek": 340,
     "timeMonth": 330,
     "timeYear": 375,
-    "dailyMinutesDown": {
-      "2024-03-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "37HRD - Website",
@@ -258,18 +256,20 @@
     "url": "https://matthew.37hrd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/matthew.37hrd.uk.ico",
     "slug": "client-website-matthew-37hrd-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 418,
-    "timeWeek": 398,
-    "timeMonth": 356,
+    "timeDay": 407,
+    "timeWeek": 396,
+    "timeMonth": 357,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "Client Website - your80s.co.uk",
