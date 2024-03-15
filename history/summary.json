@@ -109,18 +109,19 @@
     "url": "https://sqbx.uk",
     "icon": "https://icons.duckduckgo.com/ip3/sqbx.uk.ico",
     "slug": "sqbx-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 403,
-    "timeWeek": 351,
-    "timeMonth": 325,
-    "timeYear": 338,
+    "time": 337,
+    "timeDay": 339,
+    "timeWeek": 342,
+    "timeMonth": 324,
+    "timeYear": 337,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2024-03-07": 19
     }
   },
@@ -320,9 +321,9 @@
     "slug": "client-website-whatcanido-org-uk",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 2231,
     "timeDay": 1455,
@@ -330,7 +331,7 @@
     "timeMonth": 2016,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2024-03-15": 31,
+      "2024-03-15": 19,
       "2023-11-10": 35,
       "2023-07-14": 19
     }
@@ -426,18 +427,16 @@
     "slug": "client-website-retraace-co-uk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 384,
     "timeWeek": 346,
     "timeMonth": 325,
     "timeYear": 337,
-    "dailyMinutesDown": {
-      "2024-03-15": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Client Website - peteholdstock.co.uk",
