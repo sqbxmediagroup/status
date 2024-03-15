@@ -4,18 +4,20 @@
     "url": "https://www.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.matthewsnetmedia.co.uk.ico",
     "slug": "mmn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 358,
-    "timeWeek": 345,
-    "timeMonth": 331,
+    "timeDay": 336,
+    "timeWeek": 341,
+    "timeMonth": 330,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "37HRD - Website",
