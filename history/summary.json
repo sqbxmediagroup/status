@@ -256,19 +256,19 @@
     "url": "https://matthew.37hrd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/matthew.37hrd.uk.ico",
     "slug": "client-website-matthew-37hrd-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 407,
-    "timeWeek": 396,
-    "timeMonth": 357,
+    "timeDay": 384,
+    "timeWeek": 386,
+    "timeMonth": 355,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 11
     }
   },
   {
