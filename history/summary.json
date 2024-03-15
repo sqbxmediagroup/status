@@ -258,18 +258,16 @@
     "slug": "client-website-matthew-37hrd-uk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 418,
     "timeWeek": 379,
     "timeMonth": 353,
     "timeYear": 346,
-    "dailyMinutesDown": {
-      "2024-03-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Client Website - your80s.co.uk",
@@ -320,18 +318,19 @@
     "url": "https://whatcanido.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/whatcanido.org.uk.ico",
     "slug": "client-website-whatcanido-org-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2243,
-    "timeDay": 2361,
-    "timeWeek": 2167,
-    "timeMonth": 2124,
-    "timeYear": 2243,
+    "time": 2237,
+    "timeDay": 1319,
+    "timeWeek": 1930,
+    "timeMonth": 2063,
+    "timeYear": 2237,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2023-11-10": 35,
       "2023-07-14": 19
     }
