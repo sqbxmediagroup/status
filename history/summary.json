@@ -6,36 +6,36 @@
     "slug": "mmn-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 327,
     "timeWeek": 338,
     "timeMonth": 330,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2024-03-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "37HRD - Website",
     "url": "https://37hrd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/37hrd.uk.ico",
     "slug": "37-hrd-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 421,
-    "timeWeek": 354,
-    "timeMonth": 317,
+    "timeDay": 379,
+    "timeWeek": 352,
+    "timeMonth": 318,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "My37HRD",
