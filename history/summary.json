@@ -390,9 +390,9 @@
     "slug": "client-website-standrewsurccardiff-co-uk",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 358,
@@ -400,7 +400,7 @@
     "timeMonth": 372,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 11
     }
   },
   {
@@ -408,18 +408,19 @@
     "url": "https://jwrecovery.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jwrecovery.co.uk.ico",
     "slug": "client-website-jwrecovery-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
-    "time": 1618,
-    "timeDay": 1654,
-    "timeWeek": 1845,
-    "timeMonth": 1559,
-    "timeYear": 1618,
+    "time": 1615,
+    "timeDay": 986,
+    "timeWeek": 1718,
+    "timeMonth": 1533,
+    "timeYear": 1615,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-03-02": 34,
       "2024-03-01": 19,
       "2023-05-24": 19
