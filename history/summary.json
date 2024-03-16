@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 329,
+    "timeDay": 332,
     "timeWeek": 338,
     "timeMonth": 330,
     "timeYear": 374,
@@ -42,19 +42,19 @@
     "url": "https://my.37hrd.uk/home",
     "icon": "https://icons.duckduckgo.com/ip3/my.37hrd.uk.ico",
     "slug": "my37-hrd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 452,
-    "timeWeek": 446,
-    "timeMonth": 377,
+    "timeDay": 429,
+    "timeWeek": 437,
+    "timeMonth": 376,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-03-16": 11
+      "2024-03-16": 0
     }
   },
   {
