@@ -4,18 +4,20 @@
     "url": "https://www.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.matthewsnetmedia.co.uk.ico",
     "slug": "mmn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 332,
-    "timeWeek": 338,
-    "timeMonth": 330,
+    "timeDay": 323,
+    "timeWeek": 334,
+    "timeMonth": 328,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "37HRD - Website",
@@ -410,9 +412,9 @@
     "slug": "client-website-jwrecovery-co-uk",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 1614,
     "timeDay": 1045,
@@ -420,7 +422,6 @@
     "timeMonth": 1526,
     "timeYear": 1614,
     "dailyMinutesDown": {
-      "2024-03-16": 11,
       "2024-03-02": 34,
       "2024-03-01": 19,
       "2023-05-24": 19
