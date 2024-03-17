@@ -432,19 +432,19 @@
     "url": "https://retraace.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/retraace.co.uk.ico",
     "slug": "client-website-retraace-co-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 254,
-    "timeWeek": 339,
-    "timeMonth": 322,
+    "timeDay": 297,
+    "timeWeek": 343,
+    "timeMonth": 324,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-03-17": 0
+      "2024-03-17": 11
     }
   },
   {
