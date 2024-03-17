@@ -163,7 +163,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 329,
+    "timeDay": 339,
     "timeWeek": 338,
     "timeMonth": 314,
     "timeYear": 331,
@@ -261,18 +261,20 @@
     "url": "https://matthew.37hrd.uk",
     "icon": "https://icons.duckduckgo.com/ip3/matthew.37hrd.uk.ico",
     "slug": "client-website-matthew-37hrd-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 378,
-    "timeWeek": 392,
+    "timeDay": 360,
+    "timeWeek": 387,
     "timeMonth": 357,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-17": 0
+    }
   },
   {
     "name": "Client Website - your80s.co.uk",
@@ -354,7 +356,7 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
     "time": 1180,
-    "timeDay": 822,
+    "timeDay": 842,
     "timeWeek": 919,
     "timeMonth": 1006,
     "timeYear": 1180,
