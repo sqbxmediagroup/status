@@ -11,6 +11,9 @@ sites:
     url: https://my.37hrd.uk/home
   - name: 37HRD - NAS
     url: https://nas.37hrd.uk
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: SQBX - Website
     url: https://sqbx.uk
   - name: Cloudflare
