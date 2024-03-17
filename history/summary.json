@@ -157,19 +157,19 @@
     "url": "https://cdn.matthewsnetmedia.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.matthewsnetmedia.co.uk.ico",
     "slug": "cdn-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 347,
-    "timeWeek": 340,
-    "timeMonth": 316,
+    "timeDay": 325,
+    "timeWeek": 334,
+    "timeMonth": 314,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-03-17": 0
+      "2024-03-17": 16
     }
   },
   {
