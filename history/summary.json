@@ -291,18 +291,20 @@
     "url": "https://your80s.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/your80s.co.uk.ico",
     "slug": "client-website-your80s-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 319,
-    "timeWeek": 752,
-    "timeMonth": 487,
+    "timeDay": 339,
+    "timeWeek": 725,
+    "timeMonth": 484,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 1
+    }
   },
   {
     "name": "Client Website - 10yearstheshow.com",
@@ -396,7 +398,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
     "time": 1117,
-    "timeDay": 866,
+    "timeDay": 1092,
     "timeWeek": 842,
     "timeMonth": 923,
     "timeYear": 1117,
