@@ -167,8 +167,8 @@
     "slug": "cdn-service",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 344,
@@ -177,7 +177,7 @@
     "timeMonth": 405,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-03-22": 0,
+      "2024-03-22": 3,
       "2024-03-20": 20,
       "2024-03-19": 38,
       "2024-03-17": 16
@@ -348,7 +348,7 @@
     "slug": "client-website-whatcanido-org-uk",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "92.64%",
+    "uptimeDay": "92.84%",
     "uptimeWeek": "96.87%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.92%",
