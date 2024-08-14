@@ -42,5 +42,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 ## License
 
-- Code: [MIT](./LICENSE) © [MMN / SQBX](https://matthewsnetmedia.co.uk)
+- Upptime Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com/), supported by [Pabio](https://pabio.com/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Some logos provided by SQBX and its partners: © [SQBX Media Group](https://sqbx.uk)
+
+External logos are copyright of their original owners.
