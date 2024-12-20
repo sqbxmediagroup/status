@@ -146,18 +146,20 @@
     "url": "https://cloudflare-dns.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloudflare-dns.com.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 288,
-    "timeWeek": 198,
-    "timeMonth": 183,
+    "timeDay": 198,
+    "timeWeek": 187,
+    "timeMonth": 181,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-20": 0
+    }
   },
   {
     "name": "CDN Service",
@@ -401,7 +403,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/letthechildrensing.org.ico",
     "slug": "client-website-letthechildrensing-org",
     "status": "up",
-    "uptime": "77.72%",
+    "uptime": "77.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
