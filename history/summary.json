@@ -198,10 +198,10 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emails-service-mx-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "98.58%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 39,
@@ -210,7 +210,7 @@
     "timeMonth": 37,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-02-25": 143,
+      "2025-02-25": 145,
       "2024-12-12": 23
     }
   },
@@ -220,10 +220,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emails-service-mx-server-2",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
+    "uptime": "99.93%",
+    "uptimeDay": "90.04%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 49,
     "timeDay": 49,
@@ -231,7 +231,7 @@
     "timeMonth": 43,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-02-25": 124,
+      "2025-02-25": 143,
       "2024-11-12": 23
     }
   },
